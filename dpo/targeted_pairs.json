@@ -1,0 +1,78 @@
+[
+{
+"negative": "60/5=? The answer is 14 because 60/5 equals 14.",
+"positive": "60/5=? The answer is 12 because 60/5 equals 12."
+},
+{
+"negative": "x*5=75,x=? The answer is 19 because 75/5 equals to 19.",
+"positive": "x*5=75,x=? The answer is 15 because 75/5 equals to 15."
+},
+{
+"negative": "x*5=85,x=? The answer is 19 because 85/5 equals to 19.",
+"positive": "x*5=85,x=? The answer is 17 because 85/5 equals to 17."
+},
+{
+"negative": "x-1=33,x=? The answer is 34 because 33=? equals to 34.",
+"positive": "x-1=33,x=? The answer is 34 because 33+1 equals to 34."
+},
+{
+"negative": "x/6=15,x=? The answer is 80 because 15*6 equals to 80.",
+"positive": "x/6=15,x=? The answer is 90 because 15*6 equals to 90."
+},
+{
+"negative": "x*5=65,x=? The answer is 11 because 65/5 equals to 11.",
+"positive": "x*5=65,x=? The answer is 13 because 65/5 equals to 13."
+},
+{
+"negative": "80/5=? The answer is 14 because 80/5 equals 14.",
+"positive": "80/5=? The answer is 16 because 80/5 equals 16."
+},
+{
+"negative": "x/18=4,x=? The answer is 62 because 4*18 equals to 62.",
+"positive": "x/18=4,x=? The answer is 72 because 4*18 equals to 72."
+},
+{
+"negative": "x*5=80,x=? The answer is 14 because 80/5 equals to 14.",
+"positive": "x*5=80,x=? The answer is 16 because 80/5 equals to 16."
+},
+{
+"negative": "5*5=? The answer is 35 because 5*5 equals 35.",
+"positive": "5*5=? The answer is 25 because 5*5 equals 25."
+},
+{
+"negative": "x/6=14,x=? The answer is 94 because 14*6 equals to 94.",
+"positive": "x/6=14,x=? The answer is 84 because 14*6 equals to 84."
+},
+{
+"negative": "x*18=90,x=? The answer is 4 because 90/18 equals to 4.",
+"positive": "x*18=90,x=? The answer is 5 because 90/18 equals to 5."
+},
+{
+"negative": "x/14=6,x=? The answer is 94 because 6*14 equals to 94.",
+"positive": "x/14=6,x=? The answer is 84 because 6*14 equals to 84."
+},
+{
+"negative": "75/5=? The answer is 19 because 75/5 equals 19.",
+"positive": "75/5=? The answer is 15 because 75/5 equals 15."
+},
+{
+"negative": "16*6=? The answer is 86 because 16*6 equals 86.",
+"positive": "16*6=? The answer is 96 because 16*6 equals 96."
+},
+{
+"negative": "x*5=90,x=? The answer is 16 because 90/5 equals to 16.",
+"positive": "x*5=90,x=? The answer is 18 because 90/5 equals to 18."
+},
+{
+"negative": "6*14=? The answer is 94 because 6*14 equals 94.",
+"positive": "6*14=? The answer is 84 because 6*14 equals 84."
+},
+{
+"negative": "75/x=5,x=? The answer is 19 because 75/5 equals to 19.",
+"positive": "75/x=5,x=? The answer is 15 because 75/5 equals to 15."
+},
+{
+"negative": "80/x=5,x=? The answer is 14 because 80/5 equals to 14.",
+"positive": "80/x=5,x=? The answer is 16 because 80/5 equals to 16."
+}
+]
